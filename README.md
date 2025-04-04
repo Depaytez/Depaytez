@@ -4,7 +4,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Frontend Dev (JavaScript, NodeJs, HTML, CSS, <!-- React, NextJs, Typescript, --> and Paystack technology)  (Frontend)</b>
-  - [Building a course registration portal with JavaScript](https://balmcitypush.vercel.app/)
+  - [Building a course application portal with JavaScript](https://github.com/Depaytez/Balmcity-course-application/blob/main/README.md)
 - <b>Model Development (Functional Analysis, and Python)</b>
   - [Routing Model Development](Ongoing and link will be available shortly) <b><i>(Final year project to improve oil-pipeline routing)</b></i>
 <!--
