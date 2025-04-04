@@ -12,7 +12,7 @@
   - [Routing Model Development](https://github.com/Depaytez/Depaytez/) <b><i>(Ongoing Final year project to improve oil-pipeline routing)</b></i> </b>
   
 - <b>ALX Foundation Course Project(Product Development)</b>
-  - [CleanCity App, a waste management application](https://docs.google.com/presentation/d/10vKk8dnEFhJUswxqQ3WmmSV0JlNuoc5PpT9hGD13Xuk/edit?usp=drive_link) 
+  - [CleanCity App, a waste management application](https://github.com/Depaytez/Cleancity-alx-project/tree/main) 
 <!--
 <h2>👨‍💻 Technical Writing Projects:</h2>
 
