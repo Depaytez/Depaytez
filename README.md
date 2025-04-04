@@ -4,7 +4,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Frontend Dev (JavaScript, NodeJs, HTML, CSS, <!-- React, NextJs, Typescript, --> and Paystack technology)  (Frontend)</b>
-  - [Building a course application portal with JavaScript](https://github.com/Depaytez/Balmcity-course-application/blob/main/README.md)
+  - [Building a course application portal with JavaScript](https://github.com/Depaytez/Balmcity-course-application/blob/main/)
 - <b>Model Development (Functional Analysis, and Python)</b>
   - [Routing Model Development](Ongoing and link will be available shortly) <b><i>(Final year project to improve oil-pipeline routing)</b></i>
 <!--
@@ -32,6 +32,7 @@
 
 Here are some ideas to get you started:
 
+- <a href='https://www.youtube.com/watch?v=zgqfWLHNKLk&t=284s'> Youtube tutorial to make portfolio page </a>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
