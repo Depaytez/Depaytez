@@ -5,8 +5,14 @@
 
 - <b>Frontend Dev (JavaScript, NodeJs, HTML, CSS, <!-- React, NextJs, Typescript, --> and Paystack technology)  (Frontend)</b>
   - [Building a course application portal with JavaScript](https://github.com/Depaytez/Balmcity-course-application/blob/main/)
+  <!--
+  - [Building SmartBox, a farm automation application]()
+  - [Building EasyMarket and EasyBiz ecommerce and CRM applications]() -->
 - <b>Model Development (Functional Analysis, and Python)</b>
-  - [Routing Model Development](https://github.com/Depaytez/Depaytez/) <b><i>(Ongoing Final year project to improve oil-pipeline routing)</b></i>
+  - [Routing Model Development](https://github.com/Depaytez/Depaytez/) <b><i>(Ongoing Final year project to improve oil-pipeline routing)</b></i> </b>
+  
+- <b>ALX Foundation Course Project(Product Development)</b>
+  - [CleanCity App, a waste management application](https://docs.google.com/presentation/d/10vKk8dnEFhJUswxqQ3WmmSV0JlNuoc5PpT9hGD13Xuk/edit?usp=drive_link) 
 <!--
 <h2>👨‍💻 Technical Writing Projects:</h2>
 
