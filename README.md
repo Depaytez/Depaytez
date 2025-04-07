@@ -21,7 +21,10 @@
 - <b>Model Development (Functional Analysis, and Python)</b>
   - [Routing Model Development](Ongoing and link will be available shortly) <b><i>(Final year project to improve oil-pipeline routing)</b></i>
 -->
+
 <h2> 🤳 Connect with me:</h2>
+- <a align='center' href='https://sites.google.com/view/depaytez/home'>Learn more about mme on my website</a></br>
+</br> 
 
 [<img align="left" alt="Depaytez | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Depaytez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
