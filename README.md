@@ -1,53 +1,101 @@
-<h1>Hi, I'm Depaytez! <br/><a href="https://github.com/Depaytez">Software Engineer</a>, <a href="https://">Technical Writer</a>, <a href="https://x.com/DePaytez">X Blogger</a>, <a href="https://www.youtube.com/channel/UCJnuUwBlzqz3GtUDn0hRmPg">Youtuber</a></h1>
-<h2>I love to craft simple, human-centered interfaces, experiences, technologies, documentations, and contents that transforms robotic and AI solutions for economic prosperity and business innovation.</h2>
+<!-- Introduction -->
+<section>
+  <h1>Hi, I’m <strong>Depaytez!</strong> 👋 <br/>
+    <a href="https://github.com/Depaytez/Depaytez">💻 Software Engineer</a> •
+    <a href="https://github.com/Depaytez/Depaytez">📝 Technical Writer</a> •
+    <a href="https://x.com/DePaytez">🐦 X Blogger</a> •
+    <a href="https://www.youtube.com/channel/UCJnuUwBlzqz3GtUDn0hRmPg">🎥 YouTuber</a>
+  </h1>
+  <p>
+    I specialize in API integration and human-centered interfaces. I craft solutions that advance robotics, AI, and geospatial applications—transforming complex technologies into practical tools for business innovation and economic prosperity.<br/>
+    Everywhere I’ve worked, my strongest role has been that of an <strong>💡 Innovative Thinker</strong>.
+  </p>
+</section>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<!-- Banner Section -->
+<section align="center">
+  <img
+    src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1350&q=80"
+    alt="Technology Abstract Banner"
+    style="width:100%; max-height:300px; object-fit:cover; border-radius:8px;"/>
+</section>
 
-- <b>Frontend Dev (JavaScript, NodeJs, HTML, CSS, <!-- React, NextJs, Typescript, --> and Paystack technology)  (Frontend)</b>
-  - [Building a course application portal with JavaScript](https://github.com/Depaytez/Balmcity-course-application/blob/main/)
-  <!--
-  - [Building SmartBox, a farm automation application]()
-  - [Building EasyMarket and EasyBiz ecommerce and CRM applications]() -->
-- <b>Model Development (Functional Analysis, and Python)</b>
-  - [Routing Model Development](https://github.com/Depaytez/Depaytez/) <b><i>(Ongoing Final year project to improve oil-pipeline routing)</b></i> </b>
-  
-- <b>ALX Foundation Course Project(Product Development)</b>
-  - [CleanCity App, a waste management application](https://github.com/Depaytez/Cleancity-alx-project/tree/main) 
-<!--
-<h2>👨‍💻 Technical Writing Projects:</h2>
+<!-- Tech Stack -->
+<section>
+  <h2>🛠️ Tech Stack</h2>
+  <ul>
+    <li><strong>Frontend:</strong> HTML5, CSS3, JavaScript, React, Next.js, TypeScript, TailwindCSS</li>
+    <li><strong>Backend:</strong> Node.js, Express.js, Python (Flask, FastAPI)</li>
+    <li><strong>Databases:</strong> PostgreSQL, MongoDB</li>
+    <li><strong>DevOps & Tools:</strong> Git, GitHub Actions, Vercel</li>
+  </ul>
+</section>
 
-- <b>Web Dev (JavaScript, NodeJs, HTML, CSS, and Paystack technology)  (Frontend)</b>
-  - [Building a course registration portal with JavaScript](https://balmcitypush.vercel.app/)
-- <b>Model Development (Functional Analysis, and Python)</b>
-  - [Routing Model Development](Ongoing and link will be available shortly) <b><i>(Final year project to improve oil-pipeline routing)</b></i>
--->
+<!-- Projects & Aspirations -->
+<section>
+  <h2>🚀 Projects & Aspirations</h2>
+  <ul>
+    <li>🐄 <strong>Farm Automation Apps & SaaS</strong></li>
+    <li>🛒 <strong>E-commerce Platforms</strong></li>
+    <li>⚽ <strong>Football Live-Score & Match Streaming</strong></li>
+    <li>🔗 <strong>EasyMarket – Community-centric marketplace <a href="https://github.com/Depaytez/EasyMarket" style='text-decoration:none'>View Project</a></strong></li>
+    <li>🔗 <strong>RoutingMex – Routing model development (Python, Functional Analysis) <a href="https://github.com/Depaytez/Depaytez" style='text-decoration:none'>View Project</a></strong></li>
+  </ul>
+</section>
 
-<h2> 🤳 Connect with me:</h2>
-- <a align='center' href='https://sites.google.com/view/depaytez/home'>Learn more about mme on my website</a></br>
-</br> 
+<!-- Showcase of Work -->
+<section>
+  <h2>👨‍💻 Selected Projects</h2>
+  <ul>
+    <li>
+      <strong>Course Application Portal</strong> (JavaScript, Node.js, Express.js, HTML, CSS, PayStack) - <a href="https://github.com/Depaytez/Balmcity-course-application">View Code</a>
+    </li>
+    <li>
+      <strong>Routing Model Development</strong> (Python, Functional Analysis) - <a href="https://github.com/Depaytez/Depaytez">View Ongoing Final-Year Project</a>
+    </li>
+    <li>
+      <strong>CleanCity App</strong> (ALX Product Dev) - <a href="https://github.com/Depaytez/Cleancity-alx-project">View Code</a>
+    </li>
+  </ul>
+</section>
 
-[<img align="left" alt="Depaytez | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Depaytez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Depaytez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- [<img align="left" alt="Depaytez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+<!-- Skills & Tools -->
+<section>
+  <h2>🔧 Skills & Tools</h2>
+  <p>
+    🐧 Linux • 🐚 Shell scripting • 🧩 Git/GitHub • 🔗 RESTful API design • 🧱 Component-based architecture</p>
+  <p>  Currently deepening my expertise through <strong>ALX BE</strong> and <strong>ALX ProDev FE</strong> programs.</p>
+</section>
 
-[twitter]: https://x.com/DePaytez
-[youtube]: https://www.youtube.com/channel/UCJnuUwBlzqz3GtUDn0hRmPg
-<!-- [instagram]: notAvailable -->
-[linkedin]: https://t.co/dqn1pKWVdY
+<!-- GitHub Stats & Widgets -->
+<section align="center">
+  <h2>📊 GitHub Stats</h2>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Depaytez&show_icons=true&theme=radical" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Depaytez&theme=radical" alt="Streak Stats"/>
+  </p>
+</section>
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- <a href='https://www.youtube.com/watch?v=zgqfWLHNKLk&t=284s'> Youtube tutorial to make portfolio page </a>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Connect -->
+<section align='left'>
+  <h2>
+    I build with ❤️ and mind, connect 🤳  with me on;
+    <ul>
+      <li>
+        <a href='https://sites.google.com/view/depaytez/home'>my personal website</a>
+      </li>
+      <li> 
+        <a style='text-decoration:none' href="https://www.youtube.com/channel/UCJnuUwBlzqz3GtUDn0hRmPg">
+          <img alt="Depaytez | YouTube" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
+        </a>
+        <a style='text-decoration:none' href="https://x.com/DePaytez">
+          <img alt="Depaytez | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+        </a>
+        <a style='text-decoration:none' href="https://linkedin.com/in/depaytez">
+          <img alt="Depaytez | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+        </a>
+        <!-- [instagram]: notAvailable -->
+      </li>
+    </ul>
+  </h2>
+</section>
