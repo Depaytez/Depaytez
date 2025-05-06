@@ -1,8 +1,8 @@
 <!-- Introduction -->
 <section>
   <h1>Hi, I’m <strong>Depaytez!</strong> 👋 <br/>
-    <a href="https://github.com/Depaytez/Depaytez">💻 Software Engineer</a> •
-    <a href="https://github.com/Depaytez/Depaytez">📝 Technical Writer</a> •
+    <a href="https://github.com/Depaytez">💻 Software Engineer</a> •
+    <a href="https://github.com/Depaytez">📝 Technical Writer</a> •
     <a href="https://x.com/DePaytez">🐦 X Blogger</a> •
     <a href="https://www.youtube.com/channel/UCJnuUwBlzqz3GtUDn0hRmPg">🎥 YouTuber</a>
   </h1>
