@@ -39,7 +39,7 @@
     <li>🛒 <strong>E-commerce Platforms</strong></li>
     <li>⚽ <strong>Football Live-Score & Match Streaming</strong></li>
     <li>🔗 <strong>EasyMarket – Community-centric marketplace <a href="https://github.com/Depaytez/EasyMarket" style='text-decoration:none'>View Project</a></strong></li>
-    <li>🔗 <strong>RoutingMex – Routing model development (Python, Functional Analysis) <a href="https://github.com/Depaytez/Depaytez" style='text-decoration:none'>View Project</a></strong></li>
+    <li>🔗 <strong>RoutingMex – Routing model development (Python, Functional Analysis) <a href="https://github.com/Depaytez/RoutingMex-Experimentation.git" style='text-decoration:none'>View Project</a></strong></li>
   </ul>
 </section>
 
